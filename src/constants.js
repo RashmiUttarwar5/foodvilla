@@ -3,7 +3,7 @@ export const IMG_CDN_URL =
 
 export const restaurantList = [
   {
-    type: "restaurants",
+    type: "restaurant",
     data: {
       type: "F",
       id: "73011",
