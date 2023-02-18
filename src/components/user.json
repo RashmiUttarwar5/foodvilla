@@ -1,0 +1,11 @@
+
+{
+    "name":{
+        "firstName":["darshan","paras","abc"],
+        "lastName":"jain"
+    },
+    "age":"18",
+    "phoneNumber":[{"countryCode":"+91","number":"8421761442"},{"countryCode":"+91","number":"83292397971"}]
+    
+    }
+
